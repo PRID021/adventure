@@ -1,0 +1,17 @@
+# General files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# General IDE files
+.idea/
+.vscode/
+*.sln
+*.csproj
+
+# adventure
+__pycache__/
+*.pyc
+
+
