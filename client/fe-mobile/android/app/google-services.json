@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494285294062",
+    "project_id": "chat-app-proxy",
+    "storage_bucket": "chat-app-proxy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494285294062:android:4fd872e747a7fe4407a6ff",
+        "android_client_info": {
+          "package_name": "com.example.app_chat_proxy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_XLveg8S5_sqmOuTyYngexP9vxawIufc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

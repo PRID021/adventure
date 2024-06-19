@@ -1,0 +1,10 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "welcomeOnBoard": "Welcome to onboarding with us",
+  "signIn": "Let's the journey start",
+  "defaultLanguage": "Default Language",
+  "switchThemeMode": "Switch theme mode"
+}
